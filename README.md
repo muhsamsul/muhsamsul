@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhsamsul
-- 👀 I’m interested in programin
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning Kotlin Programing
 - 💞️ I’m looking to collaborate on programer community
 - 📫 How to reach me in email: muh.samsulhuda714@gmail.com
